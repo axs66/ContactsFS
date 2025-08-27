@@ -4,7 +4,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: A tweak to rescale all your existing contacts images to full screen
 Maintainer: axs
-Author: 0xkuj
+Author: 0xkuj & Axs
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
 Icon: https://axs66.github.io/repo/icon/contactsfs.png
