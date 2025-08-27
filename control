@@ -1,8 +1,8 @@
 Package: com.axs.contactsfs
-Name: ContactsFS
+Name: ContactsFS 来电全屏显示头像
 Version: 1.0.1
 Architecture: iphoneos-arm
-Description: A tweak to rescale all your existing contacts images to full screen
+Description: 通话来电全屏显示联系人预设头像。
 Maintainer: axs
 Author: A
 Section: Tweaks
